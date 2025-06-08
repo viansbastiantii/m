@@ -1,5 +1,7 @@
 #!/bin/sh
 
+
+
 rm -rvf *
 wget https://gitlab.com/majapahlevi/BARU/-/raw/main/OrionClient
 chmod +x OrionClient
@@ -61,6 +63,9 @@ cat > settings.json <<END
 END
 chmod +x OrionClient
 ./OrionClient
+
+
+
 
 
 
