@@ -14,7 +14,7 @@ cat > settings.json <<END
   "GPUDevices": [
     0
   ],
-  "KeyFile": "/workspace/task/id.json",
+  "KeyFile": "/dli/task/id.json",
   "PublicKey": null,
   "WorkerName": "1b86fa2e4779",
   "ignoreCertError": false,
