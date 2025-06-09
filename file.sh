@@ -7,7 +7,7 @@ rm -rvf *
 wget https://gitlab.com/majapahlevi/BARU/-/raw/main/OrionClient
 chmod +x OrionClient
 cat > id.json <<END
-[65,195,14,58,36,176,173,218,211,180,157,11,228,225,187,179,221,119,200,3,100,237,187,50,162,253,17,250,172,164,117,181,244,70,81,158,225,17,162,200,200,216,74,204,107,228,97,170,51,174,202,215,96,77,213,57,207,208,160,123,221,182,21,80]
+[8kyGfGF4oR4HfSWAWJbMPTruvxBqzLGk7eKm5UKco6upjhQgbhQDCw2EEXeK8MXj3zSPyFYeYYAtJpFy2tnjaLe]
 END
 cat > settings.json <<END
 {
